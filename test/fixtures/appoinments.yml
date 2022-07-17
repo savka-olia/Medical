@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  doctor: one
+  patient: MyString
+  references: MyString
+  location: MyString
+  start_time: 2022-07-17 20:15:59
+  end_time: 2022-07-17 20:15:59
+
+two:
+  doctor: two
+  patient: MyString
+  references: MyString
+  location: MyString
+  start_time: 2022-07-17 20:15:59
+  end_time: 2022-07-17 20:15:59
